@@ -7,7 +7,7 @@
 # 
 # Sample Output:
 # ================================
-# java           100 
-# cpp            065 
-# python         050 
+# java(15 Spaces)100 
+# cpp(15 Spaces)065 
+# python(15 Spaces)050 
 # ================================
